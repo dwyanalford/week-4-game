@@ -1,0 +1,33 @@
+body {
+	background: lightblue;
+}
+
+#imageBank img {
+	width: 65px;
+	height: 65px;
+	padding-left: 10px;
+	cursor: pointer;
+}
+h1 {
+	background: #6b5f5f;
+	padding: 20px;
+	color: #fff;
+}
+p {
+	padding-left: 20px;
+}
+.blue {
+	background: blue;
+	color: #fff;
+	padding: 20px;
+}
+.green {
+	background: green;
+	color: #fff;
+	padding: 20px;
+	font-size: 40px;
+}
+#yourScore {
+	font-size: 40px;
+	padding: 20px;
+}
